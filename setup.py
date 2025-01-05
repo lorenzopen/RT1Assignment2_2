@@ -21,6 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
             'move_node = move_robot.move_node:main',
+            'like_ex1 = move_robot.like_ex1:main',
         ],
     },
 )
